@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cvang94 (Charlie)!
+- 👋 Hi, I’m @yangmee!
 - 👀 I’m interested in Data Science and ML
 - 💞️ I’m looking to collaborate on open research projects!
 - 📫 How to reach me ymvan94@gmail.com
